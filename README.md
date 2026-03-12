@@ -1,6 +1,13 @@
 
 # Retail Sales Forecasting
 
+## Project Highlights
+
+✔ Built a linear regression model to forecast retail sales  
+✔ Performed exploratory data analysis to identify key sales drivers  
+✔ Engineered time-based features from transactional data  
+✔ Applied log transformation to correct skewed sales distribution  
+✔ Evaluated model performance using RMSE
 ---
 
 ## Project Overview
